@@ -1,28 +1,16 @@
-== README
+This was day 26 homework at The Iron Yard
+================
+This was to demonstrate ability to not only make a rails app without scaffold, but also deploy to heroku!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+These were the instructions:
 
-Things you may want to cover:
+Homework:
+-----------
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Create a simple rails app, with 3 pages of notes. (can be gibberish)
+* Use Devise to protect access to the notes. (remove sign-up) (registerable)
+* Deploy to Heroku
+* Post a link to Repo, Heroku App, and email/password
+* Style if you want, with twitter bootstrap
+* use `rails new $name --database postgres` instead of sqlite3
+* No scaffold (no CRUD)
